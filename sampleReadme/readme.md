@@ -1,10 +1,10 @@
-# adsadsa
+# Some project
 
-  ![License](https://img.shields.io/badge/License-BSD-blue.svg)
+  ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-  # adsadsa
+  
 >## Description
- sdfsdfs
+ something that does something else.
 
 ## Table of contents
 * [Description](#Description)
@@ -12,65 +12,51 @@
 * [Usage Information](#Usage-Information)
 * [Contributing](#Contributing)
 * [Test Instructions](#Test-Instructions)
+* [License](#License)
 
 * [General info](#general-info)
 * [Screenshots](#screenshots)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 
 ## Installation Instructions
-sdfsdfs
+bladasfajfnas
 
 ## Usage Information
-sdfsdfs
+fsdfsdjfjnkfs
 
 ## Contributing
-sdfsdfs
+sdfsfskjjn
 
 ## Test Instructions
-sdfsdfs
+dsfsdjnksdf
+
+## License
+
+* [License](#MIT)
+This Project is licensed under MIT
+
+## Screenshots
+![Example screenshot](https://raw.githubusercontent.com/FraserClarke/Mobile-Responsive-Portfolio/main/Assets/screen1.png)
 
 ## Questions
 
-* GitHub username: fdsfsdf
-* [Github Link](https://github.com/fdsfsdf/)
-* Email Address: sdfsdf
+### For further enquiries you can contact me via:
 
-## Code Examples
-Show examples of usage:
-"put-your-code-here"
+* GitHub username: askjdnaj
+* [Github Link](https://github.com/askjdnaj/)
+* Email Address: something@blah.com
+
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+Add more detailed information about project. 
 
-## Screenshots
-![Example screenshot](./img/screenshot.png)
 
-## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+## Credits
+* Created by: John doe
 
-## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+### Resources used:
 
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* 
 
-## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
 
-## Inspiration
-Add here credits. Project inspired by..., based on...
-
-## Contact
-Created by

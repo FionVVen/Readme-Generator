@@ -13,6 +13,12 @@ const writeFileAsync = util.promisify(fs.writeFile);
 const promptUser = () => {
   return inquirer.prompt([
     {
+        type: 'input',
+        name: 'name',
+        message: 'Welcome, press enter at any time to skip. What is your name?:',
+      },
+    
+    {
       type: 'input',
       name: 'title',
       message: 'What is the title of your project?:',
@@ -42,6 +48,12 @@ const promptUser = () => {
       name: 'testInstructions',
       message: 'Please provide test instructions:',
     },
+    {
+        type: 'input',
+        name: 'screenshot',
+        message: 'If you have a screenshot link for your project, paste it here:',
+      },
+
     
     {
       type: 'list',
