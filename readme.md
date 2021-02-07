@@ -33,9 +33,9 @@ running tests
 
 ## Questions
 
-GitHub username: running tests
-Github Link: https://github.com/running tests/
-Email Address: running tests
+* GitHub username: running tests
+* [Github Link](https://github.com/running tests/)
+* Email Address: running tests
 
 ## Code Examples
 Show examples of usage:

@@ -107,9 +107,9 @@ ${answers.testInstructions}
 
 ## Questions
 
-GitHub username: ${answers.githubUsername}
-Github Link: https://github.com/${answers.githubUsername}/
-Email Address: ${answers.email}
+* GitHub username: ${answers.githubUsername}
+* [Github Link](https://github.com/${answers.githubUsername}/)
+* Email Address: ${answers.email}
 
 ## Code Examples
 Show examples of usage:
