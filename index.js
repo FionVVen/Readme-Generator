@@ -80,7 +80,7 @@ const generateReadme = (answers) =>
 * [Description](#Description)
 * [Installation Instructions](#Installation-Instructions)
 * [Usage Information](#Usage-Information)
-* [Contribution Guidelines](#Contribution-Guidelines)
+* [Contributing](#Contributing)
 * [Test Instructions](#Test-Instructions)
 
 * [General info](#general-info)
@@ -99,11 +99,17 @@ ${answers.installationInstructions}
 ## Usage Information
 ${answers.usageInformation}
 
-## Contribution Guidelines
+## Contributing
 ${answers.contributionGuidelines}
 
 ## Test Instructions
 ${answers.testInstructions}
+
+## Questions
+
+GitHub username: ${answers.githubUsername}
+Github Link: https://github.com/${answers.githubUsername}/
+Email Address: ${answers.email}
 
 ## Code Examples
 Show examples of usage:
@@ -148,8 +154,8 @@ const init = () => {
   };
 
 // TODO: Create a function to initialize app
-function init() {
-    generateMarkdown("data");}
+// function init() {
+//     generateMarkdown("data");}
 
 // Function call to initialize app
 init();
