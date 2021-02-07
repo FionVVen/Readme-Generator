@@ -15,51 +15,51 @@ const promptUser = () => {
     {
       type: 'input',
       name: 'title',
-      message: 'What is the title of your project?',
+      message: 'What is the title of your project?:',
     },
     {
       type: 'input',
       name: 'description',
-      message: 'Add a Description of your project/application',
+      message: 'Add a Description of your project/application:',
     },
     {
       type: 'input',
       name: 'installationInstructions',
-      message: 'Please provide installation instructions.',
+      message: 'Please provide installation instructions:',
     },
     {
       type: 'input',
       name: 'usageInformation',
-      message: 'Please provide usage information.',
+      message: 'Please provide usage information:',
     },
     {
       type: 'input',
       name: 'contributionGuidelines',
-      message: 'Please provide Contribution guidelines.',
+      message: 'Please provide Contribution guidelines:',
     },
     {
       type: 'input',
       name: 'testInstructions',
-      message: 'Please provide test instructions.',
+      message: 'Please provide test instructions:',
     },
     
     
     {
         type: 'list',
         name: 'license.',
-        message: 'Please choose a license from the list.',
+        message: 'Please choose a license from the list:',
         choices: ['',],
 
       },
     {
         type: 'input',
         name: 'githubUsername',
-        message: 'Please Enter your GitHub Username.',
+        message: 'Please Enter your GitHub Username:',
       },
     {
         type: 'input',
         name: 'email',
-        message: 'Please Enter your Email Address.',
+        message: 'Please Enter your Email Address:',
       },
   
   
