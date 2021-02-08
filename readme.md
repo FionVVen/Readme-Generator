@@ -41,7 +41,7 @@ A simple readme generator that takes user input and creates a formatted readme.m
 
 * [Github Repository](https://github.com/FraserClarke/Readme-Generator)
 
-* [Walkthrough Video](https://github.com/FraserClarke)
+* [Walkthrough Video](https://drive.google.com/file/d/1Ap3qBjqHcQAsgBtMhherp9PJJZtl0aPk/view)
 
 ## Credits
 * Created by: [Fraser Clarke](https://github.com/FraserClarke)
