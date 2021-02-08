@@ -1,72 +1,49 @@
-# running tests
+# Readme generator
 >   ## Description
- running tests
+* AS A developer
+* I WANT a README generator
+* SO THAT I can quickly create a professional README for a new project
+
+* You can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on a project.
+
 
 ## Table of contents
 * [Description](#Description)
 * [Installation Instructions](#Installation-Instructions)
-* [Usage Information](#Usage-Information)
-* [Contributing](#Contributing)
-* [Test Instructions](#Test-Instructions)
-
+* [Links](#Links)
 * [General info](#general-info)
-* [Screenshots](#screenshots)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
+* [Screenshots](#Screenshots)
+* [Questions](#Questions)
+* [Credits](#Credits)
 
 
 ## Installation Instructions
-running tests
+* Go to the correct directory in your terminal
+* Do an npm install
+* Type "node index.js" to run the application
+* Follow the prompts, and type in relevant information. Press enter to skip
+* After youve seen the "Success message" the readme file will be created in your "sampleReadme" folder.
 
-## Usage Information
-running tests
-
-## Contributing
-running tests
-
-## Test Instructions
-running tests
 
 ## Questions
 
-* GitHub username: running tests
-* [Github Link](https://github.com/running tests/)
-* Email Address: running tests
-
-## Code Examples
-Show examples of usage:
-"put-your-code-here"
+* GitHub username: FraserClarke
+* [Github Link](https://github.com/FraserClarke)
+* Email Address: clarkefraser1@gmail.com
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+A simple readme generator that takes user input and creates a formatted readme.md file.
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](https://raw.githubusercontent.com/FraserClarke/Readme-Generator/main/utils/Screenshot.png)
 
-## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+## Links
 
-## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+* [Github Repository](https://github.com/FraserClarke/Readme-Generator)
 
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* [Walkthrough Video](https://github.com/FraserClarke)
 
-## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
-
-## Inspiration
-Add here credits. Project inspired by..., based on...
-
-## Contact
-Created by
+## Credits
+* Created by: [Fraser Clarke](https://github.com/FraserClarke)
+* https://markdownlivepreview.com/
+* https://shields.io/ (used to create license badges)
